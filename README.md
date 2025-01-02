@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @guui1
-- 👀 I’m interested in web devolopment
-- 🌱 I’m currently learning JavaScript and node.JS
-- 💞️ I’m looking to collaborate on Back-end
-- 📫 How to reach me guilherme.7395alves@gmail.com
-- 📫 www.linkedin.com/in/guilherme-alves-30b8962a9
+- 👋 Olá,me chamo Guilherme 
+- 👀 Sou um Desenvolvedor Web Full Stalck
+- 🌱 Estou, atualmente, cursando o 2°Sem de Análise e desenvolvimento de sistemas.
+- 💞️ Pretendo trabalhar e sempre desenvolver técnicas no Back-end, de forma bem abrangente.
 - ⚡ future interests: Learning tailwind, SQL ,etc...
 
-<!---
-guui1/guui1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 Se quiser me mandar um E-mail: guilherme.7395alves@gmail.com
+- 📫 Se quiser ver meu linkedin: https://www.linkedin.com/in/guui01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
