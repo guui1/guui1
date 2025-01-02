@@ -1,4 +1,4 @@
-- 👋 Olá,me chamo Guilherme 
+- 👋 Olá, me chamo Guilherme 
 - 👀 Sou um Desenvolvedor Web Full Stalck
 - 🌱 Estou, atualmente, cursando o 2°Sem de Análise e desenvolvimento de sistemas.
 - 💞️ Pretendo trabalhar e sempre desenvolver técnicas no Back-end, de forma bem abrangente.
